@@ -14,12 +14,11 @@ const Home = () => {
           Software Developer | Graphic Designer | Web Designer{" "}
         </h2>
         <p className="text-[#ccd6f6] py-4 max-w[700px] ">
-          I have done quite a bit of programming in our province by using VB.Net
-          language with database management for MYSQL. I also love to create
+          I have done quite a bit of programming by using VB.Net
+          language with database management using MYSQL. I also love to create
           Graphic Designs using Photoshop and Illustrator, Web Development using
-          WordPress, HTML, CSS, and REACT also some Data Entries. I will work
-          self-directed and figure things out whenever possible. I want a
-          full-time job.
+          HTML, Tailwind-CSS, REACT and including Data Entries. I will work
+          self-directed and figure things out whenever possible.
         </p>
         <div>
           <button className="items-center justify-start inline-block px-5 py-3 overflow-hidden font-medium transition-all bg-blue-600 rounded-full hover:bg-white group">
