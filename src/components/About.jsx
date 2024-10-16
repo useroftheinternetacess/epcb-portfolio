@@ -12,10 +12,10 @@ const About = () => {
             </div>
             <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
                 <div className='sm:text-right text-4xl font-bold'>
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+                    <p>Graduated as a <span className=' text-[#addfde]'>BACHELOR OF SCIENCE IN COMPUTER SCIENCE</span></p>
                 </div>
                 <div>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatibus corrupti, facilis ipsam dolorem quos voluptatem beatae culpa iure mollitia nemo nam autem molestias doloribus in nisi? Veniam at odit cupiditate!</p>
+                    <p>My well-positioned broad-based background positively impact the effectiveness to deliver good work ethics as Software Developer, Graphic Designer and a Web Designer, ability to solve technical issues with utmost accuracy, excellent time management and analytical skills, can work under pressure, able to work abstract concepts and do technical analysis. </p>
                 </div>
             </div>
         </div>
